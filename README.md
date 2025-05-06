@@ -29,7 +29,7 @@ BinExplorer lets you inspect any binary file (PE, raw `.bin`, etc.) by dumping i
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your‑username/binexplorer.git
+   git clone https://github.com/icetea-dev/binexplorer.git
    cd binexplorer
    pip install -r requirements.txt
    python explorer.py <path/to/file> [--output report_name.txt]
